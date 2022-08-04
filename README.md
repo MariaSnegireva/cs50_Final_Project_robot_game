@@ -6,19 +6,19 @@ to get score before they disappear. To start the game - press space , return, or
 
 ## Video Demo
 
-[Youtube video]<https://www.youtube.com/watch?v=lPs29xJWDwE>
+.[Youtube video](https://www.youtube.com/watch?v=lPs29xJWDwE)
 
-![alt text]<https://tenor.com/view/gif-26381895>
+![alt text](https://github.com/MariaSnegireva/robot/blob/main/robot_preview.gif "GIF")
 
 ### Assets used
 
-<https://freesound.org/people/jeremysykes/sounds/341229/>
-<https://www.fontsquirrel.com/fonts/download/amatic>
-<https://kenney.nl/assets/toon-characters-1>
-<https://opengameart.org/content/rocket>
+* https://freesound.org/people/jeremysykes/sounds/341229/
+* https://www.fontsquirrel.com/fonts/download/amatic
+* https://kenney.nl/assets/toon-characters-1
+* https://opengameart.org/content/rocket
 
 music by David Bowie – Space Oddity
 
 #### Optional
 
-[download LÖVE 2d]<https://love2d.org/>
+.[download LÖVE 2d](https://love2d.org/)
