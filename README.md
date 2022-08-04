@@ -1,12 +1,14 @@
 
 # CS50 Final Project
 
-This project is a Small-Scale 2D Game with LOVE 2D and Lua. In this game  ‘Isaac Asimov legacy’ his famous character - robot has 30 second for collect materials
-to get score before they disappear. To start the game - press space , return, or left , right, up or down button. Also you can use left, right, up down button to let your robot moves. If you want to quit - press escape button. However, you must collected at least 5 materials, otherwise you will be Space Over.
-
-## Video Demo
+#### Video Demo:
 
 [Youtube video](https://www.youtube.com/watch?v=lPs29xJWDwE)
+
+#### Description:
+
+This project is a Small-Scale 2D Game with LOVE 2D and Lua. In this game  ‘Isaac Asimov legacy’ his famous character - robot has 30 second for collect materials
+to get score before they disappear. To start the game - press space , return, or left , right, up or down button. Also you can use left, right, up down button to let your robot moves. If you want to quit - press escape button. However, you must collected at least 5 materials, otherwise you will be Space Over.
 
 ![alt text](https://github.com/MariaSnegireva/robot/blob/main/robot_preview.gif "GIF")
 
