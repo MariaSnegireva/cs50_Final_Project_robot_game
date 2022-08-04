@@ -34,6 +34,7 @@ function love.load()
     -- animations
     animations= {}
     animations.player = {}
+    
     local frameTime = 0.15
 
     animations.player.up = newAnimation(love.graphics.newImage("assets/images/character/character_robot_back.png"), 128, 128, frameTime, 4)
