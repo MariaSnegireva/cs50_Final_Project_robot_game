@@ -22,3 +22,38 @@ music by David Bowie – Space Oddity
 #### Optional
 
 [download LÖVE 2d](https://love2d.org/)
+
+
+### Middleclass
+
+A simple OOP library for Lua. It has inheritance, metamethods (operators), class variables and weak mixin support.
+
+### Installation
+
+Just copy the middleclass.lua file wherever you want it (for example on a lib/ folder). Then write this in any Lua file where you want to use it:
+
+```lua
+  local class = require 'middleclass'
+```
+
+### License
+
+Middleclass is distributed under the MIT license.
+
+### Stateful
+
+* Classes gain the capacity of creating "states"
+* States can override instance methods and create new ones
+* States are inherited by subclasses
+* States are stackable - the state on the top of the stack is the most prioritary
+* There are callback functions invoked automatically when a state is entered, exited, pushed, popped ...
+
+### Installation
+
+First, make sure that you have downloaded and installed middleclass
+Just copy the stateful.lua file wherever you want it (for example on a lib/ folder). Then write this in any Lua file where you want to use it:
+
+```lua
+  local class    = require 'middleclass'
+  local stateful = require 'stateful'
+```
