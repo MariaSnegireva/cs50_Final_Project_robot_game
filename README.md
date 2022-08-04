@@ -6,7 +6,7 @@ to get score before they disappear. To start the game - press space , return, or
 
 ## Video Demo
 
-.[Youtube video](https://www.youtube.com/watch?v=lPs29xJWDwE)
+[Youtube video](https://www.youtube.com/watch?v=lPs29xJWDwE)
 
 ![alt text](https://github.com/MariaSnegireva/robot/blob/main/robot_preview.gif "GIF")
 
@@ -21,4 +21,4 @@ music by David Bowie – Space Oddity
 
 #### Optional
 
-.[download LÖVE 2d](https://love2d.org/)
+[download LÖVE 2d](https://love2d.org/)
