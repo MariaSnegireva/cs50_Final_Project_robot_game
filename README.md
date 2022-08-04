@@ -25,7 +25,6 @@ music by David Bowie – Space Oddity
 
 [download LÖVE 2d](https://love2d.org/)
 
-
 ### Middleclass
 
 A simple OOP library for Lua. It has inheritance, metamethods (operators), class variables and weak mixin support.
