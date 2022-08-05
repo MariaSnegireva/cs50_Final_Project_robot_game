@@ -61,7 +61,7 @@ Just copy the stateful.lua file wherever you want it (for example on a lib/ fold
   local stateful = require 'stateful'
 ```
 
-# conf.lua
+### conf.lua
 
 If this file present in your game folder (or .love file), it is run before the LÖVE modules are loaded. You can use this file to overwrite the love.conf function, which is later called by the LÖVE 'boot' script. Using the love.conf function, you can set some configuration options, and change things such as the default size of the window, which modules are loaded, and other program setup-related options.
 
@@ -78,7 +78,7 @@ If this file present in your game folder (or .love file), it is run before the L
 
 love.conf must be defined inside a file named conf.lua. It will not work if it's defined inside main.lua, because it affects initialization that happens before main.lua is loaded.
 
-## For Windows
+### For Windows
 
 cd [path to folder] <br/>
 .\love [name of folder] <br/>
@@ -87,6 +87,6 @@ cd [path to folder] <br/>
 
 for more info visit: <https://love2d.org/wiki/Main_Page>
 
-# Appendidentity
+### Appendidentity
 
 LÖVE 2D version 11.4
