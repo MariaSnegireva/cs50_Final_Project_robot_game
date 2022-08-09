@@ -3,7 +3,7 @@
 
 #### Video Demo:
 
-[Youtube video](https://www.youtube.com/watch?v=lPs29xJWDwE)
+[Youtube video](https://youtu.be/R7P-bvXrLLw)
 
 #### Description:
 
